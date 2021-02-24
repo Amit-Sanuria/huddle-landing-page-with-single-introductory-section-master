@@ -6,6 +6,7 @@ body{
     font-family: 'Poppins', sans-serif;
     color: white;
     height: max-content;
+    width:1440px
 }
 
 .head{
@@ -50,7 +51,7 @@ body{
 .info{
     position: absolute;
     top: 300px;
-    right: 180px;
+    right: 100px;
     font-weight: 600;
     font-size: 18px;
 }
